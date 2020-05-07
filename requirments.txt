@@ -1,0 +1,3 @@
+resolvelib==0.3.0
+packaging
+requests-html
